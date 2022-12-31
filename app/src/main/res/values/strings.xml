@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Dec2022TWCApp</string>
+
+    <string name="sync_notification_title">Trans Wellness Coalition</string>
+    <string name="sync_notification_channel_name">Sync</string>
+    <string name="sync_notification_channel_description">Background tasks for Trans Wellness Coalition</string>
+
+    <string name="bookmark">Bookmark</string>
+    <string name="unbookmark">Unbookmark</string>
+    <string name="back">Back</string>
+
+    <string name="card_tap_action">Open Resource Link</string>
+
+    <string name="top_app_bar_preview_title">Title</string>
+
+    <string name="presenter">Presenter</string>
+    <string name="presenter_loading">Loading presenter</string>
+    <string name="presenter_following">FOLLOWING</string>
+    <string name="presenter_not_following">NOT FOLLOWING</string>
+
+    <string name="for_you">For you</string>
+    <string name="presenters">Presenters</string>
+    <string name="saved">Saved</string>
+    <string name="done">Done</string>
+    <string name="for_you_loading">Loading for you…</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="onboarding_guidance_title">What are you interested in?</string>
+    <string name="onboarding_guidance_subtitle">Updates from topics you follow will appear here. Follow some things to get started.</string>
+    <string name="top_app_bar_title">Trans Wellness Coalition</string>
+    <string name="top_app_bar_navigation_button_content_desc">Search</string>
+
+    <!-- Authors-->
+    <string name="following">You are following</string>
+    <string name="not_following">You are not following</string>
+
+    <string name="interests">Interests</string>
+    <string name="interests_topics">Topics</string>
+    <string name="interests_people">People</string>
+    <string name="interests_loading">Loading data</string>
+    <string name="interests_empty_header">"No available data"</string>
+    <string name="interests_card_follow_button_content_desc">Follow interest button</string>
+    <string name="interests_card_unfollow_button_content_desc">Unfollow interest button</string>
+    <string name="top_app_bar_action_button_content_desc">Menu</string>
+
+    <string name="topic">Topic</string>
+    <string name="topic_loading">Loading topic</string>
+
+    <!-- Generic -->
+    <string name="api_error">Error from API.</string>
+
+    <!-- List Screen -->
+    <string name="session_list">Session list</string>
+    <string name="session_title">Session Title</string>
+
+
+</resources>
